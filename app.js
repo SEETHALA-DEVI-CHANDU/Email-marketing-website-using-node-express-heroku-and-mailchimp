@@ -73,8 +73,5 @@ app.listen(process.env.PORT || 3000,function(){
 
 
 
-//API KEY 3e4b52e48257e2edaf71379f40c1704f-us17                 3e4b52e48257e2edaf71379f40c1704f-us17
-// List id bb6755adc5
-
 
 
